@@ -4,8 +4,7 @@
 ![demo](https://github.com/akahamzidollar/akahamzidollar/assets/124251846/c7448f7e-1c70-4779-9524-88bb102e5273)
 ![demo](https://github.com/akahamzidollar/akahamzidollar/assets/124251846/c7448f7e-1c70-4779-9524-88bb102e5273)
 ![demo](https://github.com/akahamzidollar/akahamzidollar/assets/124251846/c7448f7e-1c70-4779-9524-88bb102e5273)
-![demo](https://github.com/akahamzidollar/akahamzidollar/assets/124251846/c7448f7e-1c70-4779-9524-88bb102e5273)
-![demo](https://github.com/akahamzidollar/akahamzidollar/assets/124251846/c7448f7e-1c70-4779-9524-88bb102e5273)
+
 <h1 align="center"> Hi 👋, I'm Muhammad Dawood Zafar</h1>
 	
 <h3 align="center"> Flutter Developer & React-Native Developer </h3>
