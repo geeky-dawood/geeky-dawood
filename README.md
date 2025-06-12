@@ -51,4 +51,5 @@
   </a>
 </p>
 
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=geeky-dawood&show_icons=true&theme=tokyonight" alt="Dawood's GitHub Stats" /> </p> <p align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=geeky-dawood&theme=tokyonight" alt="Dawood's GitHub Streak" /> </p>
 
