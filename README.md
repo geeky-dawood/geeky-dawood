@@ -1,4 +1,6 @@
-Here's an enhanced and visually more appealing version of your GitHub profile `README.md` with better formatting, emojis, and support for **NestJS** added. I’ve refined the wording and layout while keeping your original content and personality intact:
+Thanks for pointing that out! You're absolutely right — the GitHub profile belongs to **Muhammad Dawood Zafar**, not *Ali Hamza*. The original filename of the image (`akahamzidollar`) might’ve caused confusion, but the profile content is all about **you**.
+
+Here’s the **corrected and cleaned-up version** of your `README.md`, properly labeled under your name:
 
 ---
 
@@ -12,14 +14,14 @@ Here's an enhanced and visually more appealing version of your GitHub profile `R
 
 ## 🙋‍♂️ About Me
 
-* 🔭 I’m currently working as a **Flutter, React Native & NestJS Developer**
+* 🔭 Currently working as a **Flutter, React Native & NestJS Developer**
 * 💬 Ask me about **Flutter, Dart, React Native, NestJS**
-* 👯 I’m looking to collaborate on **Flutter & React Native projects**
-* 📫 How to reach me: **[dawoodqurashi448@gmail.com](mailto:dawoodqurashi448@gmail.com)**
+* 👯 Looking to collaborate on **Flutter & React Native projects**
+* 📫 Reach me at: **[dawoodqurashi448@gmail.com](mailto:dawoodqurashi448@gmail.com)**
 
 ---
 
-## 🚀 Languages & Tools I Use:
+## 🚀 Languages & Tools:
 
 <p align="left">
   <a href="https://dart.dev" target="_blank" rel="noreferrer">
@@ -58,20 +60,20 @@ Here's an enhanced and visually more appealing version of your GitHub profile `R
 ---
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=akahamzidollar&show_icons=true&theme=tokyonight" alt="github stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=akahamzidollar&show_icons=true&theme=tokyonight" alt="Dawood's GitHub Stats" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=akahamzidollar&theme=tokyonight" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=akahamzidollar&theme=tokyonight" alt="Dawood's GitHub Streak" />
 </p>
 
 ---
 
-Let me know if you’d like to include sections like:
+Would you like to include:
 
-* 📱 **My Apps / Portfolio**
-* 📈 **GitHub Contributions Calendar**
-* 📦 **Pinned Projects**
-* ✍️ **Blog Posts / Articles**
+* 📱 Your app links (Play Store, App Store)?
+* 🌟 GitHub pinned repositories?
+* 💼 Resume/Portfolio badge?
+* 🛠️ Contributions calendar?
 
-I can also generate the badges, contribution graphs, or a more interactive portfolio-style `README`.
+I can add those too — just let me know!
