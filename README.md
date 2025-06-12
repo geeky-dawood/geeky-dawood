@@ -17,23 +17,7 @@
 
 ## 🚀 Languages & Tools:
 
-<p align="left">
-  <a href="https://dart.dev" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="Dart" width="40" height="40"/>
-  </a>
-  <a href="https://flutter.dev" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="Flutter" width="40" height="40"/>
-  </a>
-  <a href="https://firebase.google.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="Firebase" width="40" height="40"/>
-  </a>
-  <a href="https://reactnative.dev" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg" alt="React Native" width="40" height="40"/>
-  </a>
-  <a href="https://nestjs.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/nestjs/nestjs-icon.svg" alt="NestJS" width="40" height="40"/>
-  </a>
-</p>
+<p align="left"> <a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="Dart" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="Flutter" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="Firebase" width="40" height="40"/> </a> <a href="https://reactnative.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg" alt="React Native" width="40" height="40"/> </a> <a href="https://nestjs.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/nestjs/nestjs-icon.svg" alt="NestJS" width="40" height="40"/> </a> <a href="https://www.agora.io/" target="_blank" rel="noreferrer"> <img src="https://seeklogo.com/images/A/agora-logo-06856F38AA-seeklogo.com.png" alt="Agora SDK" width="40" height="40"/> </a> <a href="https://onesignal.com/" target="_blank" rel="noreferrer"> <img src="https://seeklogo.com/images/O/onesignal-logo-02A7B8F65E-seeklogo.com.png" alt="OneSignal" width="40" height="40"/> </a> </p>
 
 ---
 
