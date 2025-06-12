@@ -51,14 +51,4 @@
   </a>
 </p>
 
----
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=akahamzidollar&show_icons=true&theme=tokyonight" alt="Dawood's GitHub Stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=akahamzidollar&theme=tokyonight" alt="Dawood's GitHub Streak" />
-</p>
-
----
