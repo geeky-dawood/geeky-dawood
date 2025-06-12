@@ -1,9 +1,3 @@
-Thanks for pointing that out! You're absolutely right — the GitHub profile belongs to **Muhammad Dawood Zafar**, not *Ali Hamza*. The original filename of the image (`akahamzidollar`) might’ve caused confusion, but the profile content is all about **you**.
-
-Here’s the **corrected and cleaned-up version** of your `README.md`, properly labeled under your name:
-
----
-
 ![demo](https://github.com/akahamzidollar/akahamzidollar/assets/124251846/c7448f7e-1c70-4779-9524-88bb102e5273)
 
 <h1 align="center">Hi 👋, I'm Muhammad Dawood Zafar</h1>
@@ -16,7 +10,7 @@ Here’s the **corrected and cleaned-up version** of your `README.md`, properly 
 
 * 🔭 Currently working as a **Flutter, React Native & NestJS Developer**
 * 💬 Ask me about **Flutter, Dart, React Native, NestJS**
-* 👯 Looking to collaborate on **Flutter & React Native projects**
+* 👯 Looking to collaborate on **Flutter projects**
 * 📫 Reach me at: **[dawoodqurashi448@gmail.com](mailto:dawoodqurashi448@gmail.com)**
 
 ---
