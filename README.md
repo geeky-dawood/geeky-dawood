@@ -1,36 +1,77 @@
+Here's an enhanced and visually more appealing version of your GitHub profile `README.md` with better formatting, emojis, and support for **NestJS** added. I’ve refined the wording and layout while keeping your original content and personality intact:
+
+---
+
 ![demo](https://github.com/akahamzidollar/akahamzidollar/assets/124251846/c7448f7e-1c70-4779-9524-88bb102e5273)
 
-<h1 align="center"> Hi 👋, I'm Muhammad Dawood Zafar</h1>
-	
-<h3 align="center"> Flutter Developer & React-Native Developer </h3>
-<br>
-<br>
+<h1 align="center">Hi 👋, I'm Muhammad Dawood Zafar</h1>
+
+<h3 align="center">💻 Flutter | React Native | NestJS Developer</h3>
+
+---
 
 ## 🙋‍♂️ About Me
 
+* 🔭 I’m currently working as a **Flutter, React Native & NestJS Developer**
+* 💬 Ask me about **Flutter, Dart, React Native, NestJS**
+* 👯 I’m looking to collaborate on **Flutter & React Native projects**
+* 📫 How to reach me: **[dawoodqurashi448@gmail.com](mailto:dawoodqurashi448@gmail.com)**
 
-- 💬 Ask me about **Flutter, Dart,React-Native**
+---
 
-- 📫 How to reach me **dawoodqurashi448@gmail.com**
+## 🚀 Languages & Tools I Use:
 
-- 💞️ I'm looking to collaborate on **Flutter Project & React-Native**
+<p align="left">
+  <a href="https://dart.dev" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="Dart" width="40" height="40"/>
+  </a>
+  <a href="https://flutter.dev" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="Flutter" width="40" height="40"/>
+  </a>
+  <a href="https://firebase.google.com/" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="Firebase" width="40" height="40"/>
+  </a>
+  <a href="https://reactnative.dev" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg" alt="React Native" width="40" height="40"/>
+  </a>
+  <a href="https://nestjs.com/" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/nestjs/nestjs-icon.svg" alt="NestJS" width="40" height="40"/>
+  </a>
+</p>
 
-<br>
-<br>
+---
 
-## 🚀 Languages and Tools:
+## 🌐 Connect with Me:
 
-<a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://reactnative.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg" alt="reactnative" width="40" height="40"/> </a>
+<p align="left">
+  <a href="https://www.linkedin.com/in/muhammad-dawood-zafar-259b00160" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
+  </a>
+  <a href="https://www.facebook.com/dawood.qurashi.96?mibextid=ZbWKwL" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Facebook" height="30" width="40" />
+  </a>
+  <a href="https://x.com/dawood_qurashi?t=I9-wPxOEvj8vz5Lqn6nUag&s=09" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Twitter" height="30" width="40" />
+  </a>
+</p>
 
-<br>
-<br>
+---
 
-## Connect with me:
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=akahamzidollar&show_icons=true&theme=tokyonight" alt="github stats" />
+</p>
 
-<a href="https://www.linkedin.com/in/muhammad-dawood-zafar-259b00160" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="dholasain" height="30" width="40" /></a>
-<a href="https://www.facebook.com/dawood.qurashi.96?mibextid=ZbWKwL" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="dholasain" height="30" width="40" /></a>
-<a href="https://x.com/dawood_qurashi?t=I9-wPxOEvj8vz5Lqn6nUag&s=09" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="dholasain" height="30" width="40" /></a>
-<!---
-akahamzidollar/akahamzidollar is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=akahamzidollar&theme=tokyonight" alt="GitHub Streak" />
+</p>
+
+---
+
+Let me know if you’d like to include sections like:
+
+* 📱 **My Apps / Portfolio**
+* 📈 **GitHub Contributions Calendar**
+* 📦 **Pinned Projects**
+* ✍️ **Blog Posts / Articles**
+
+I can also generate the badges, contribution graphs, or a more interactive portfolio-style `README`.
