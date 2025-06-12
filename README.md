@@ -62,12 +62,3 @@
 </p>
 
 ---
-
-Would you like to include:
-
-* 📱 Your app links (Play Store, App Store)?
-* 🌟 GitHub pinned repositories?
-* 💼 Resume/Portfolio badge?
-* 🛠️ Contributions calendar?
-
-I can add those too — just let me know!
