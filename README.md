@@ -10,7 +10,7 @@
 * 💬 Ask me about **Flutter, Dart, React Native, NestJS**
 * 👯 Looking to collaborate on **Flutter projects**
 * 📫 Reach me at: **[dawoodqurashi448@gmail.com](mailto:dawoodqurashi448@gmail.com)**
-* 🌐 My Portfolio: **https://portfolio-murex-omega-56.vercel.app/**
+* 🌐 My Portfolio: **https://dawood-flutter-portfolio.vercel.app/**
 
 
 ---
