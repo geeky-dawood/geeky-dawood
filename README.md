@@ -1,12 +1,12 @@
 <h1 align="center">Hi 👋, I'm Muhammad Dawood Zafar</h1>
 
-<h3 align="center">💻 Flutter | React Native | NestJS Developer</h3>
+<h3 align="center">💻 Flutter | React Native | NestJS </h3>
 
 ---
 
 ## 🙋‍♂️ About Me
 
-* 🔭 Currently working as a **Flutter, React Native & NestJS Developer**
+* 🔭 Currently working as a **Flutter Application Developer**
 * 💬 Ask me about **Flutter, Dart, React Native, NestJS**
 * 👯 Looking to collaborate on **Flutter projects**
 * 📫 Reach me at: **[dawoodqurashi448@gmail.com](mailto:dawoodqurashi448@gmail.com)**
