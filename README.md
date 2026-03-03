@@ -44,6 +44,8 @@
   <img height="40" src="https://skillicons.dev/icons?i=git,github,vscode,figma,androidstudio" style="margin-right:10px"/>
   <img height="40" src="https://cdn.simpleicons.org/xcode" title="Xcode" style="margin-right:10px"/>
   <img height="40" src="https://cdn.simpleicons.org/googleadmob" title="AdMob" style="margin-right:10px"/>
+  <img height="40" src="https://cdn.simpleicons.org/googleplay" style="margin-right:10px" title="Google Play Console"/>
+  <img height="40" src="https://cdn.simpleicons.org/apple" style="margin-right:10px" title="Apple Developer"/>
 </p>
 
 ---
