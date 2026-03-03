@@ -22,7 +22,6 @@
 📱 Building scalable, production-ready mobile applications  
 ⚡ Strong focus on Clean Architecture & performance  
 🔌 Backend APIs using **NestJS + Node + Prisma**  
-🎥 Real-time features with **Agora SDK**  
 🤝 Open to collaboration on Flutter-based products  
 
 ---
@@ -56,7 +55,6 @@
 - 🔹 Reusable & Scalable Widget Systems  
 - 🔹 Secure REST APIs with NestJS & Node  
 - 🔹 Database Management using Prisma  
-- 🔹 Real-time Communication with Agora SDK  
 
 ---
 
