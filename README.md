@@ -1,55 +1,83 @@
 <h1 align="center">Hi 👋, I'm Muhammad Dawood Zafar</h1>
 
-<h3 align="center">💻 Flutter | React Native | NestJS </h3>
+<h3 align="center">🚀 Flutter Developer | NestJS Backend Developer</h3>
 
----
-
-## 🙋‍♂️ About Me
-
-* 🔭 Currently working as a **Flutter Application Developer**
-* 💬 Ask me about **Flutter, Dart, React Native, NestJS**
-* 👯 Looking to collaborate on **Flutter projects**
-* 📫 Reach me at: **[dawoodqurashi448@gmail.com](mailto:dawoodqurashi448@gmail.com)**
-* 🌐 My Portfolio: **https://dawood-flutter-portfolio.vercel.app/**
-
-
----
-
-## 🚀 Languages & Tools:
-
-<p align="left">
-  <a href="https://dart.dev" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="Dart" width="40" height="40"/>
+<p align="center">
+  <a href="https://dawood-flutter-portfolio.vercel.app/">
+    <img src="https://img.shields.io/badge/🌐 Portfolio-Visit-blue?style=for-the-badge" />
   </a>
-  <a href="https://flutter.dev" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="Flutter" width="40" height="40"/>
+  <a href="mailto:dawoodqurashi448@gmail.com">
+    <img src="https://img.shields.io/badge/📧 Email-Contact-red?style=for-the-badge" />
   </a>
-  <a href="https://firebase.google.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="Firebase" width="40" height="40"/>
-  </a>
-  <a href="https://reactnative.dev" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg" alt="React Native" width="40" height="40"/>
-  </a>
-  <a href="https://nestjs.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/nestjs/nestjs-icon.svg" alt="NestJS" width="40" height="40"/>
+  <a href="https://www.linkedin.com/in/muhammad-dawood-zafar-259b00160">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" />
   </a>
 </p>
 
 ---
 
-## 🌐 Connect with Me:
+## 👨‍💻 About Me
 
-<p align="left">
-  <a href="https://www.linkedin.com/in/muhammad-dawood-zafar-259b00160" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
+💙 Passionate **Flutter Application Developer**  
+📱 Building scalable, high-performance mobile applications  
+⚡ Strong focus on clean architecture & state management  
+🔌 Backend development with **NestJS**  
+🤝 Open to collaboration on Flutter-based products  
+
+---
+
+## 🛠 Tech Stack
+
+### 📱 Mobile Development
+<p>
+  <img src="https://skillicons.dev/icons?i=flutter,dart" />
+</p>
+
+### 🔥 Backend Development
+<p>
+  <img src="https://skillicons.dev/icons?i=nestjs,nodejs,postgresql" />
+</p>
+
+### ⚙️ Tools
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,vercel,vscode,figma" />
+</p>
+
+---
+
+## 🚀 What I’m Currently Working On
+
+- 🔹 Advanced Flutter UI & Animations  
+- 🔹 Clean Architecture in Flutter  
+- 🔹 Reusable & Scalable Widget Systems  
+- 🔹 Secure REST APIs with NestJS  
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=geeky-dawood&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=geeky-dawood&theme=tokyonight&hide_border=true" width="48%" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=geeky-dawood&layout=compact&theme=tokyonight&hide_border=true" width="48%" />
+</p>
+
+---
+
+## 🌍 Connect With Me
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/muhammad-dawood-zafar-259b00160">
+    <img src="https://skillicons.dev/icons?i=linkedin" />
   </a>
-  <a href="https://www.facebook.com/dawood.qurashi.96?mibextid=ZbWKwL" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Facebook" height="30" width="40" />
-  </a>
-  <a href="https://x.com/dawood_qurashi?t=I9-wPxOEvj8vz5Lqn6nUag&s=09" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Twitter" height="30" width="40" />
+  <a href="https://x.com/dawood_qurashi?t=I9-wPxOEvj8vz5Lqn6nUag&s=09">
+    <img src="https://skillicons.dev/icons?i=twitter" />
   </a>
 </p>
 
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=geeky-dawood&show_icons=true&theme=tokyonight" alt="Dawood's GitHub Stats" /> </p> <p align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=geeky-dawood&theme=tokyonight" alt="Dawood's GitHub Streak" /> </p>
+---
 
+<h3 align="center">💬 Crafting Beautiful Mobile Experiences with Flutter</h3>
