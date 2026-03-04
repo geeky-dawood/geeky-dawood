@@ -64,14 +64,3 @@
 </p>
 
 ---
-
-## 🚀 What I Focus On
-
-- 🔹 Advanced Flutter UI & Animations  
-- 🔹 Reusable & Scalable Widget Systems  
-- 🔹 Secure REST APIs with NestJS & Node  
-- 🔹 Database Management using Prisma  
-
----
-
-<h3 align="center">💬 Crafting Beautiful & Scalable Mobile Applications</h3>
