@@ -30,6 +30,18 @@
 
 ---
 
+
+## 💼 Experience
+
+**Flutter & Full-Stack Developer at Geekybugs (Feb 2023 - Present)**  
+- Developed and deployed multiple apps using **Flutter** for both Android and iOS.  
+- Built and maintained backend APIs using **NestJS** and **Node.js**, integrating RESTful services.  
+- Collaborated with frontend and backend teams to implement new features and optimize existing functionality.  
+- Focused on building **scalable, production-ready applications** with clean architecture and performance optimization.  
+
+
+---
+
 ## 🛠 Tech Stack
 
 ### 📱 Mobile Development
