@@ -23,7 +23,7 @@
 📱 Building scalable, production-ready mobile applications  
 ⚡ Strong focus on Clean Architecture & performance  
 🔌 Backend APIs using **NestJS + Node.js + Prisma**  
-💻 All of my projects are available on **[GitHub](https://github.com/dholasain99)**  
+💻 All of my projects are available on **[GitHub](https://github.com/geeky-dawood)**  
 💬 Ask me about **Flutter, Node.js, NestJS, Firebase**  
 🤝 Open to collaboration 
 📫 Reach me at: **dawoodqurashi448@gmail.com**
