@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋, I'm Muhammad Dawood Zafar</h1>
 
-<h3 align="center">🚀 Flutter Developer | NestJS Backend Developer</h3>
+<h3 align="center">🚀 Fullstack (Flutter , NestJs, Firebase) Developer from Pakistan
+</h3>
 
 <p align="center">
   <a href="https://dawood-flutter-portfolio.vercel.app/">
@@ -21,8 +22,11 @@
 💙 Passionate **Flutter Application Developer**  
 📱 Building scalable, production-ready mobile applications  
 ⚡ Strong focus on Clean Architecture & performance  
-🔌 Backend APIs using **NestJS + Node + Prisma**  
-🤝 Open to collaboration on Flutter-based products  
+🔌 Backend APIs using **NestJS + Node.js + Prisma**  
+💻 All of my projects are available on **[GitHub](https://github.com/dholasain99)**  
+💬 Ask me about **Flutter, Node.js, NestJS, Firebase**  
+🤝 Open to collaboration 
+📫 Reach me at: **dawoodqurashi448@gmail.com**
 
 ---
 
