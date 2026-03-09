@@ -44,17 +44,17 @@
 
 ## 🛠 Tech Stack
 
-### 📱 Mobile Development
+### Mobile Development
 <p>
   <img src="https://skillicons.dev/icons?i=flutter,dart,firebase" />
 </p>
 
-### 🔥 Backend Development
+### Backend Development
 <p>
   <img src="https://skillicons.dev/icons?i=nestjs,nodejs,prisma,postgresql" />
 </p>
 
-### ⚙️ Tools & SDKs
+### Tools & SDKs
 <p>
   <img height="40" src="https://skillicons.dev/icons?i=git,github,vscode,figma,androidstudio" style="margin-right:10px"/>
   <img height="40" src="https://cdn.simpleicons.org/xcode" title="Xcode" style="margin-right:10px"/>
